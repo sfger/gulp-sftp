@@ -3,15 +3,10 @@
   "version": "0.1.5",
   "description": "Upload files via SSH",
   "license": "MIT",
-  "repository": "gtg092x/gulp-sftp",
-  "homepage": "https://github.com/gtg092x/gulp-sftp/",
+  "repository": "sfger/gulp-sftp",
+  "homepage": "https://github.com/sfger/gulp-sftp/",
   "bugs": {
-    "url" : "https://github.com/gtg092x/gulp-sftp/issues"
-  },
-  "author": {
-    "name": "Matthew Drake",
-    "email": "mdrake@mediadrake.com",
-    "url": "http://mediadrake.com"
+    "url" : "https://github.com/sfger/gulp-sftp/issues"
   },
   "contributors": [
     "Benjamin P. Jung <headcr4sh@gmail.com>",
